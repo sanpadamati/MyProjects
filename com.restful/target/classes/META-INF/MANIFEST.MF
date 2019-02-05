@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: com.restful
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: san
+Implementation-Vendor-Id: com.restful
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/TestRestful
+Created-By: Maven Integration for Eclipse
+
